@@ -13,9 +13,9 @@ pyb -n 200 -c 10  'http://www.test.com'</code></pre>
 <li>avg_time ：Time per request</li>
 </ul>
 <pre><code class="lang-javascript">{
-    'rps': '34.61',         # Requests per second
-    'rate': '4.43',         # Transfer rate
-    'avg_time': '0.03',     # Time per request
+    'rps': '34.61',         
+    'rate': '4.43',         
+    'avg_time': '0.03',     
     'avg_length': '131.00',
     'total_req': 10,
     'succeed_req': 10,
